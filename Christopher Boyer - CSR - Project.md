@@ -20,6 +20,8 @@ outputs, sources, citations, verification steps, and decisions.</p>
 <p>| Consensus | Academic research | — | 2026-10-08 |</p>
 <p>| cite | Citation verification | — | 2026-10-08 </p>
 
+<p>Template</p>
+
 <p>McDonald’s Mission Statement: They are there to make delicious food to make delicious feel-good moments. They improve their operations everyday, maintain their customer service, and stabilize their workforce.</p>
 
 <p>Economics:
